@@ -1,4 +1,4 @@
 Twilio-SMS-Handling
 ===================
 
-A sample SMS client to handle the request from Twilio on recieving an SMS and responding back. Uses Wolfram Alpha to respond to the SMS.
+A sample SMS handling client in Node.js to handle the the call from Twilio on recieving an message and responding back to it. Uses Wolfram Alpha to respond to the SMS.
